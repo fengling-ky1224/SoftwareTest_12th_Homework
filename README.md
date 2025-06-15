@@ -1,6 +1,6 @@
 # SoftwareTest_12th_Homework
 
-#上传说明
+### 上传说明
 
 microservice_develop：为SpringBoot相关代码
 
@@ -8,6 +8,8 @@ microservice_develop：为SpringBoot相关代码
 
 MODA_Paper_V2：所选择复现的论文
 
-Selenium与JMeter测试文档：与阶段二相关的全部代码与结果
+test_JMeter&test_Selenium ：测试部分相关代码和结果
+
+Selenium与JMeter测试文档：与阶段二相关的全部代码与结果说明文档
 
 新的微服务部署.docx：记录SpringBoot相关的部署步骤、代码与可视化数据结果、测试结果的文档。

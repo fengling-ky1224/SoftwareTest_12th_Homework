@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1326,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 542.0882352941172,
+    "medianResTime" : 491.0,
+    "minResTime" : 206.0,
+    "maxResTime" : 1199.0,
+    "pct1ResTime" : 915.0,
+    "pct2ResTime" : 1010.0,
+    "pct3ResTime" : 1096.73,
+    "throughput" : 45.39541252995549,
+    "receivedKBytesPerSec" : 417.10866623159876,
+    "sentKBytesPerSec" : 14.760570010270454
+  },
+  "商品列表" : {
+    "transaction" : "商品列表",
+    "sampleCount" : 666,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 703.0660660660661,
+    "medianResTime" : 681.0,
+    "minResTime" : 256.0,
+    "maxResTime" : 1199.0,
+    "pct1ResTime" : 1010.0,
+    "pct2ResTime" : 1078.65,
+    "pct3ResTime" : 1133.3800000000035,
+    "throughput" : 22.800410818212942,
+    "receivedKBytesPerSec" : 237.5770952798699,
+    "sentKBytesPerSec" : 7.214192485450188
+  },
+  "商品详情" : {
+    "transaction" : "商品详情",
+    "sampleCount" : 660,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 379.6469696969696,
+    "medianResTime" : 393.0,
+    "minResTime" : 206.0,
+    "maxResTime" : 581.0,
+    "pct1ResTime" : 491.0,
+    "pct2ResTime" : 496.0,
+    "pct3ResTime" : 526.7899999999992,
+    "throughput" : 23.485872891609137,
+    "receivedKBytesPerSec" : 186.61010559746637,
+    "sentKBytesPerSec" : 7.8439145790335205
+  }
+}
